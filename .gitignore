@@ -3,6 +3,14 @@
 .env
 venv/
 
+*.pickle
+*.tsv
+*.gz
+*.csv
+*.json
+*.out
+data/stocktwits/raw_messages/stocktwits_messages*
+
 .bash_history
 .bash_logout
 .bashrc
