@@ -1,0 +1,17 @@
+gunzip stocktwits_messages_2019_05.gz;
+gunzip stocktwits_messages_2019_04.gz;
+gunzip stocktwits_messages_2019_03.gz;
+gunzip stocktwits_messages_2019_02.gz;
+gunzip stocktwits_messages_2019_01.gz;
+gunzip stocktwits_messages_2018_12.gz;
+gunzip stocktwits_messages_2018_11.gz;
+gunzip stocktwits_messages_2018_10.gz;
+gunzip stocktwits_messages_2018_09.gz;
+gunzip stocktwits_messages_2018_08.gz;
+gunzip stocktwits_messages_2018_07.gz;
+gunzip stocktwits_messages_2018_06.gz;
+gunzip stocktwits_messages_2018_05.gz;
+gunzip stocktwits_messages_2018_04.gz;
+gunzip stocktwits_messages_2018_03.gz;
+gunzip stocktwits_messages_2018_02.gz;
+gunzip stocktwits_messages_2018_01.gz;
