@@ -30,3 +30,6 @@ data/stocktwits/raw_messages/stocktwits_messages*
 .yarnrc
 __pycache__/
 
+data/stocktwits/raw_sentiment/download_sentiment.sh
+data/stocktwits/raw_activity/download_activity.sh
+data/stocktwits/raw_messages/download_messages.sh
